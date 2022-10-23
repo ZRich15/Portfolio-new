@@ -1,0 +1,57 @@
+/* --- Structure ---*/
+body {
+    min-width: 350px;
+    background-color: orange;
+  }
+  
+  header {
+    background-color: darkgray;
+  }
+  
+  
+  footer {
+      background-color: darkgray;
+      margin: 200px 0 0 0;
+      padding: 20px 0;
+  }
+  /*--- logo --- */
+  h1 {
+    color: white;
+    padding: 60px 0 20px 20px;
+    margin: 0;
+    float: top left;
+  }
+
+  h2 {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+    margin: 0 0 0 20px;
+    color: white;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+    margin: 0 0 0 20px;
+    color: white;
+}
+  
+  main {
+    padding-left: 20px;
+  }
+
+  h4 {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  footer {
+    padding-left: 20px;
+  }
+
+  a:link {color: blue;}
+  a:visited {color: black;}
+  a:hover {color:whitesmoke}
+  a:active {color: darkgray;}
